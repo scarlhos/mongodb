@@ -74,6 +74,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+<<<<<<< HEAD
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos
 mongo_data/
+=======
+/mongo_data
+# End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos
+>>>>>>> c6535cc1fc9527169ed42ec8cb964ea502dba789
